@@ -1,0 +1,549 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>中山大学管理学院</title>
+	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="css/common.css">
+	<link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+	<div class="wrapper">
+		<div class="header pr">
+			<div class="topbar">
+				<div class="logo fl">
+					<a href="index.html"><img src="images/logo.png" alt="logo" class="logoIcon"></a>
+					<img src="images/footAdv1.png" alt="" class="topAdv">
+					<img src="images/footAdv0.png" alt="" class="topAdv">
+				</div>
+				<div class="rightFrame fr">
+					<div class="loginFrame">
+						<a href="#">登录</a>
+						<a href="#" class="active middle">免费注册</a>
+						<a href="#">加入收藏</a>
+					</div>
+					<form action="">
+						<div class="searchFrame fr pr">
+							<input type="number" class="inputVal pa">
+							<input type="submit" class="search pa" value="搜索">
+						</div>
+					</form>
+					<div class="cb"></div>
+				</div>
+				<div class="cb"></div>
+			</div>
+			<div class="nav">
+				<span class="titleIcon">|</span><a href="#" class="active">中心官网</a>
+				<span class="titleIcon">|</span><a href="#">约课首页</a>
+				<span class="titleIcon">|</span><a href="#">课程中心</a>
+				<span class="titleIcon">|</span><a href="#">最新动态</a>
+				<span class="titleIcon">|</span><a href="#">会员专区</a>
+				<span class="titleIcon">|</span><a href="#">服务中心</a><span class="titleIcon">|</span>
+			</div>
+			<div class="subnav pa">
+				<div class="content">
+					<a href="#">人力资源</a>
+					<a href="#">财务管理</a>
+					<a href="#">互联网思维</a>
+					<a href="#">名家课堂</a>
+					<a href="#">投资理财</a>
+					<a href="#">市场营销</a>
+					<a href="#">领导力</a>
+					<a href="#">国学智慧</a>
+					<a href="#">管理技能</a>
+					<a href="#">其他</a>
+				</div>
+			</div>
+			<div class="banner pr" id="banner">
+				<div class="content">
+					<ul class="bannerImg">
+						<li><img src="images/banner/banner-index.png" alt="中山大学管理学院官网"></li>
+						<li><img src="images/banner/banner-index.png" alt="中山大学管理学院官网"></li>
+						<li><img src="images/banner/banner-index.png" alt="中山大学管理学院官网"></li>
+						<div class="cb"></div>
+					</ul>
+				</div>
+				<ul class="bannerCtrl pa">
+					<li class="active"></li>
+					<li></li>
+					<li></li>
+					<div class="cb"></div>
+				</ul>
+			</div>
+		</div>
+		<div class="main">
+			<div class="content">
+				<div class="loginFrame fl">
+					<a href="#" class="business active enter">集团入口</a>
+					<a href="#" class="customer enter" id="personEnter">个人入口</a>
+					<div class="cb"></div>
+					<div class="loginForm">
+						<form action="">
+							<label for="username" class="userL"></label>
+							<input type="text" id="username" class="username inputs" placeholder="会员名/邮箱">
+							<div class="cb"></div>
+							<label for="password" class="passL"></label>
+							<input type="password" id="password" class="password inputs">
+							<div class="cb"></div>
+							<label for="code" class="codeL"></label>
+							<input type="text" id="code" class="code inputs">
+							<div class="cb"></div>
+							<div class="identCode">
+								<a href="#" class="aLink">换一换</a>
+								<img src="images/idCode.png" alt="" align="absmiddle" >
+								<div class="cb"></div>
+							</div>
+							<div class="cb"></div>
+							<input type="submit" value="登&nbsp;&nbsp;录" class="postVals">
+							<a href="#" class="forgetPassLink aLink">忘记密码</a>
+							<a href="#" class="regLink aLink">免费注册</a>
+							<div class="cb"></div>
+						</form>
+					</div>
+				</div>
+				<div class="title">
+					<span class="titleIcon">|</span>
+					<h1>最新课程</h1>
+					<a href="" class="active">人力资源</a>
+					<a href="">财务管理</a>
+					<a href="">互联网思维</a>
+					<a href="">名家课堂</a>
+					<a href="">投资理财</a>
+					<a href="">市场营销</a>
+					<a href="">领导力</a>
+					<a href="">国学智慧</a>
+					<a href="">管理技能</a>
+					<a href="">其他</a>
+					<div class="cb"></div>
+				</div>
+				<div class="fr courseList">
+					<table cellspacing="1">
+						<tr>
+							<th colspan="3" class="time">授课时间</th>
+							<th class="course">课程名称</th>
+							<th class="teacher">授课师资</th>
+							<th class="strength">师资介绍</th>
+							<th class="place">授课地点</th>
+							<th class="sit">剩余可<br/>预约座位</th>
+							<th class="operation">操作</th>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<div class="cb"></div>
+				<div class="info">
+					<div class="fl news">
+						<div class="subTitle">
+							<span class="titleIcon">|</span>
+							<h2>最新公告</h2>
+							<span class="icon">+</span>
+							<a href="" class="more">MORE</a>
+							<div class="cb"></div>
+						</div>
+						<div class="con">
+							<div class="adv pr">
+								<img src="images/indexAdv.png" alt="" class="book">
+								<a href="" class="pa bottom bookTitle">时间管理美学</a>
+							</div>
+							<ul class="list">
+								<li>
+									<span class="icon"></span>
+									<a href="#">时间管理美学改变从这开原来如此简单</a>
+									<div class="cb"></div>
+								</li>
+								<li>
+									<span class="icon"></span>
+									<a href="#">时间管理美开展居于生活点滴</a>
+									<div class="cb"></div>
+								</li>
+								<li>
+									<span class="icon"></span>
+									<a href="#">时间管理美学改变从这开始如此简单</a>
+									<div class="cb"></div>
+								</li>
+								<li>
+									<span class="icon"></span>
+									<a href="#">时间管理美学改变从这开原来如此简单</a>
+									<div class="cb"></div>
+								</li>
+								<li>
+									<span class="icon"></span>
+									<a href="#">时间管理美开展居于生活点滴</a>
+									<div class="cb"></div>
+								</li>
+								<li>
+									<span class="icon"></span>
+									<a href="#">时间管理美学改变从这开始如此简单</a>
+									<div class="cb"></div>
+								</li>
+								<li>
+									<span class="icon"></span>
+									<a href="#">时间管理美学原来如此简单</a>
+									<div class="cb"></div>
+								</li>
+								<div class="cb"></div>
+							</ul>
+						</div>
+					</div>
+					<div class="fr courseInfo">
+						<div class="subTitle">
+							<span class="titleIcon">|</span>
+							<h2>开班信息</h2>
+							<span class="icon">+</span>
+							<a href="" class="more">MORE</a>
+							<div class="cb"></div>
+						</div>
+						<div class="con">
+							<div class="cutLine">
+								<dl>
+									<dd><span class="icon"></span>2014-06-08</dd>
+									<dt><a href="#">时间管理美学改变从这开始居于生活点滴</a></dt>
+									<div class="cb"></div>
+									<dd><span class="icon"></span>2014-06-08</dd>
+									<dt><a href="#">时间管理美学居于生活点滴改变从这开始</a></dt>
+									<div class="cb"></div>
+									<dd><span class="icon"></span>2014-06-08</dd>
+									<dt><a href="#">时间管理美学改变从这居于生活点滴开始</a></dt>
+									<div class="cb"></div>
+									<dd><span class="icon"></span>2014-06-08</dd>
+									<dt><a href="#">时间管理美学改变从这开始</a></dt>
+									<div class="cb"></div>
+								</dl>
+								<img src="images/indexScroll.png" alt="" class="fr">
+								<div class="cb"></div>
+							</div>
+							<div class="regCourse">
+								<a class="reg" id="regCourse">新课程需求提交登记</a>
+								<p class="tips">欢迎给我们提供您的新课程需求我们会尽快联系安排</p>
+								<div class="cb"></div>
+							</div>
+						</div>
+					</div>
+					<div class="cb"></div>
+				</div>
+			</div>
+		</div>
+		<div class="footer">
+			<div class="content">
+				<div class="fl info">
+					<a href="#">联系我们</a>
+					<a href="#">在线咨询</a>
+					<a href="#">学院位置</a>
+					<a href="#">友情链接</a>
+					<ul>
+						<li>版权所有：中山大学管理学院EMBA教育中心 | 粤ICP备09116672号 020-84115588</li>
+						<li>Copyright © 2014 中山大学管理学院 All Rights Reserved</li>
+						<li>POWERED BY:100vic.com </li>
+					</ul>
+				</div>
+				<div class="fl footAdv">
+					<img src="images/footAdv1.png" alt="" class="adv">
+					<img src="images/footAdv0.png" alt="" class="adv">
+				</div>
+				<div class="scan">
+					<span class="fl">扫描关注我们</span>
+					<img src="images/footQcode.png" alt="" class="fr">
+					<div class="cb"></div>
+				</div>
+				<div class="cb"></div>
+			</div>
+		</div>
+		<div class="blackBg pf" id="blackBg"></div>
+		<div class="regCourseInfo" id="regCourseInfo">
+			<div class="infoFrame fl">
+				<div class="regTitle">
+					<span></span>新课程需求提交登记
+				</div>
+				<div class="regContent">
+					<form action="">
+						<div class="fl">
+							<div>
+								<label for="realname" class="realnameL">姓名</label>
+								<input type="text" class="realname" id="realname">
+								<div class="cb"></div>
+							</div>
+							<div>
+								<label for="telphone" class="telphoneL">手机</label>
+								<input type="text" class="telphone" id="telphone">
+								<div class="cb"></div>
+							</div>
+							<div>
+								<label for="industry" class="industryL">行业</label>
+								<input type="text" class="industry" id="industry">
+								<div class="cb"></div>
+							</div>
+							<div>
+								<label for="job" class="jobL">单位与职务</label>
+								<input type="text" class="job lastItem" id="job">
+								<div class="cb"></div>
+							</div>
+						</div>
+						<div class="fr">
+							<div>
+								<label for="courseName" class="courseNameL">希望能开设的<br>课程名称</label>
+								<input type="text" class="courseName" id="courseName">
+								<div class="cb"></div>
+							</div>
+							<div>
+								<label for="teachType" class="teachTypeL">希望授课<br>师资类型</label>
+								<input type="text" class="teachType" id="teachType">
+								<div class="cb"></div>
+							</div>
+							<div>
+								<label for="connect" class="connectL">您需要的课程<br>安排后如何通知您</label>
+								<input type="text" class="connect lastItem" id="connect">
+								<div class="cb"></div>
+							</div>
+						</div>
+						<div class="cb"></div>
+						<div class="postBtn">
+							<input type="submit" value="提交需求" class="btnPostVal">
+						</div>
+					</form>
+				</div>
+			</div>
+			<div class="close fr"><img src="images/closeBtn.png" alt=""></div>
+			<div class="cb"></div>
+		</div>
+		<div class="logFrame" id="logFrame">
+			<div class="login fl" id="login">
+				<div class="title">
+					<a href="#" class="titleALink active logLink" id="">登&nbsp;&nbsp;&nbsp;&nbsp;录</a>
+					<a href="#" class="titleALink regLink">集团注册</a>
+					<a href="#" class="titleALink">个人注册</a>
+					<a href="#" class="accounted">已有账号，立即登录</a>
+					<div class="cb"></div>
+				</div>
+				<form action="">
+					<div class="body">
+						<div class="fl logForm">
+							<div class="inputVal fl">
+								<div><label for="username">用户名/邮箱</label><input type="text" class="username"></div>
+								<div><label for="password">密码</label><input type="password" class="password"></div>
+								<div>
+									<input type="text" class="code fl">
+									<img src="images/idCode.png" alt="" class="fl idCode">
+									<a class="changeLink">换一换</a>
+									<p class="cb"></p>
+								</div>
+								<div>
+									<input type="checkbox" value="auto" class="check">
+									<span>下次自动登录</span>
+									<p class="cb"></p>
+								</div>
+							</div>
+							<div class="wrong fr">用户名或密码错误</div>
+							<p class="cb"></p>
+						</div>
+						<div class="fr adv"><img src="images/login.png" alt=""></div>
+						<div class="cb"></div>
+					</div>
+					<div class="bottom">
+						<input type="submit" class="postVal" value="登录">
+						<a href="#">忘记密码 </a>/<a href="#"> 注册</a>
+					</div>
+				</form>
+			</div>
+			<div class="close fr"><img src="images/closeBtn.png" alt=""></div>
+			<div class="cb"></div>
+		</div>
+		<div class="regFrame" id="regFrame">
+			<div class="reg fl" id="reg">
+				<div class="title">
+					<a href="#" class="titleALink logLink">登&nbsp;&nbsp;&nbsp;&nbsp;录</a>
+					<a href="#" class="titleALink active regLink">集团注册</a>
+					<a href="#" class="titleALink">个人注册</a>
+					<a href="#" class="accounted">已有账号，立即登录</a>
+					<div class="cb"></div>
+				</div>
+				<form action="">
+					<div class="body">
+						<div class="fl regForm">
+							<div class="inputVal fl">
+								<div>
+									<label for="username" class="userL fl">常用邮箱</label>
+									<div class="rows fl">
+										<input type="text" class="username" id="username">
+										请务必填写您的有效邮箱
+									</div>
+									<div class="fl tips">
+										<img src="images/warmming.png" alt="">
+										<span class="tipsInfo">邮箱不可为空</span>
+									</div>
+									<div class="cb"></div>
+								</div>
+								<div>
+									<label for="realname" class="realL fl">用户姓名</label>
+									<div class="rows fl">
+										<input type="text" class="realname" id="realname">
+										字符长度在4-20个字符之间，一个汉字为两个字符
+									</div>
+									<div class="fl tips">
+										<img src="images/warmming.png" alt="">
+										<span class="tipsInfo">姓名不可为空</span>
+									</div>
+									<div class="cb"></div>
+								</div>
+								<div>
+									<label for="password" class="userL fl">登录密码</label>
+									<div class="rows fl">
+										<input type="password" class="password" id="password">
+										密码长度至少6个字符
+									</div>
+									<div class="fl tips">
+										<img src="images/warmming.png" alt="">
+										<span class="tipsInfo">密码不可为空</span>
+									</div>
+									<div class="cb"></div>
+								</div>
+								<div>
+									<label for="confirmPass" class="confirmL fl">确认密码</label>
+									<div class="rows fl">
+										<input type="text" class="confirmPass" id="confirmPass">
+										用户使用条款（注册使用前请先阅读）
+									</div>
+									<div class="fl tips">
+										<img src="images/confirm.png" alt="">
+										<span class="tipsInfo"></span>
+									</div>
+									<div class="cb"></div>
+								</div>
+								<div>
+									<label for="company" class="companyL fl">所在单位</label>
+									<div class="rows fl">
+										<input type="text" class="company" id="company">
+									</div>
+									<div class="fl tips">
+										<img src="images/warmming.png" alt="">
+										<span class="tipsInfo">内容不可为空</span>
+										<span class="tipsInfo"></span>
+									</div>
+									<div class="cb"></div>
+								</div>
+								<div>
+									<label for="job" class="jobL fl">担任职位</label>
+									<div class="rows fl">
+										<input type="text" class="job" id="job">
+									</div>
+									<div class="fl tips">
+										<img src="images/warmming.png" alt="">
+										<span class="tipsInfo">内容不可为空</span>
+									</div>
+									<div class="cb"></div>
+								</div>
+							</div>
+							<p class="cb"></p>
+						</div>
+						<div class="fr adv"><img src="images/register.png" alt=""></div>
+						<div class="cb"></div>
+					</div>
+					<div class="bottom">
+						<input type="submit" class="postVal" value="立即注册">
+					</div>
+				</form>
+			</div>
+			<div class="close fr"><img src="images/closeBtn.png" alt=""></div>
+			<div class="cb"></div>
+		</div>
+	</div>
+	<script src="js/jquery-1.12.0.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			var i=0;
+			var bannerImgWidth = 1366;
+			setInterval(function(){
+				i++;
+				if(i==3){
+					i=0;
+					skipWidth = 0;
+					$("#banner .bannerImg").animate({marginLeft:'0px'});
+					bannerImgWidth=1366;
+				}else{
+					$("#banner .bannerImg").animate({marginLeft:-bannerImgWidth+"px"});
+					bannerImgWidth+=bannerImgWidth;
+				}
+				$("#banner .bannerCtrl li").eq(i).siblings().removeClass("active");
+				$("#banner .bannerCtrl li").eq(i).addClass("active")
+			},2500);
+			$("#regCourse").click(function(){
+				$("#blackBg").show();
+				$("#regCourseInfo").show();
+			})
+			$(".close").click(function(){
+				$("#blackBg").hide();
+				$("#regCourseInfo").hide();
+				$("#logFrame").hide();
+				$("#regFrame").hide();
+			})
+			$(".regLink").click(function() {
+				$("#logFrame").hide();
+				$("#regFrame").show();
+			})
+			$(".logLink").click(function() {
+				$("#regFrame").hide();
+				$("#logFrame").show();
+			})
+			$("#personEnter").click(function(){
+				$("#blackBg").show();
+				$("#regFrame").hide();
+				$("#logFrame").show();
+			})
+		})
+	</script>
+</body>
+</html>

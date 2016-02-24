@@ -1,0 +1,23 @@
+/*右边标题*/
+.content .rightContent{width:660px;padding-right:57px;padding-top:55px;}
+.content .rightContent .stitle{background:url(../images/sprite/member.png) no-repeat 0px 5px;padding-left:20px;color:#262626;}
+.content .rightContent .top a{color:#710423;background:url(../images/sprite/member.png) no-repeat 55px -18px;}
+/*右边标题下划线*/
+.content .rightContent .top {border-bottom:1px solid #eaeaea;}
+
+
+table{width:660px;border-bottom:1px solid #eaeaea;color:#373737;font-size:12px;text-align:center;margin-top:25px;}
+table tr.thh{height:28px;border-bottom:1px solid #cecece;border-top:1px solid #cecece;}
+table tr.thh th{text-align:center;}
+table tr td{height:25px;line-height:25px;}
+table tr td a{color:#373737;}
+table tr td a:hover,table tr td.aa a{color:#710423;}
+table tr.onetr td{padding-top:7px;height:25px;}
+table tr.lasttr td{padding:7px 0px;}
+
+.wrapper .main .page{border-bottom:0;position:absolute;bottom:0px;left:427px;width: 325px;}
+.wrapper .main .page a{font-size:12px;}
+.wrapper .main .page .next{color:#7f7f7f;}
+.wrapper .main .page a.one,.wrapper .main .page a.all:hover{color:#710423;font-weight:bold;}
+
+

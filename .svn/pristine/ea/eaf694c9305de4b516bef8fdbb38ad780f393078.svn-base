@@ -1,0 +1,13 @@
+/*右边标题*/
+.content .rightContent{width:660px;padding-right:57px;padding-top:55px;}
+.content .rightContent .stitle{background:url(../images/sprite/member.png) no-repeat 0px 5px;padding-left:20px;color:#262626;}
+.content .rightContent .top a{color:#710423;}
+/*右边标题下划线*/
+.content .rightContent .top {border-bottom:1px solid #eaeaea;}
+
+.content .rightContent form .formtop{border-left:2px solid #710423;}
+.content .rightContent form .formtop div{width:213px;color:#595757;font-size:14px;padding-left:10px;}
+.content .rightContent .formcon{position:relative;width:385px;padding-top:38px;margin-left:105px;border-bottom:1px solid #cccccc;}
+.content .rightContent .formcon textarea{width:383px;height:220px;border-radius:5px;margin-top:15px;margin-bottom:35px;outline:none;text-indent:11px;}
+.content .rightContent .formcon .button{width:184px;background:#fff;position:absolute;bottom:-16px;left:102px;text-align:center;}
+.content .rightContent .formcon .button input{background:#710423;width:155px;height:34px;text-align:center;font-family:"微软雅黑";border:0px;cursor:pointer;}

@@ -1,0 +1,27 @@
+/*右边标题*/
+.content .rightContent{width:660px;padding-right:57px;padding-top:55px;}
+.content .rightContent .stitle{background:url(../images/sprite/member.png) no-repeat 0px 5px;padding-left:20px;color:#262626;}
+.content .rightContent .top a{color:#710423;background:url(../images/sprite/member.png) no-repeat 55px -18px;}
+/*右边标题下划线*/
+.content .rightContent .top {border-bottom:1px solid #eaeaea;}
+
+
+
+
+.wrapper .main .page{border-bottom:0;position:absolute;bottom:0px;left:427px;width: 325px;}
+.wrapper .main .page a{font-size:12px;}
+.wrapper .main .page .next{color:#7f7f7f;}
+.wrapper .main .page a.one,.wrapper .main .page a.all:hover{color:#710423;font-weight:bold;}
+.wrapper .main .page .go{}
+
+
+.content .rightContent .count{}
+.content .rightContent ul li span{font-size:18px;color:#595757;padding-right:15px;float:left;}
+.content .rightContent ul li a{font-size:0px;display:inline-block;float:left;}
+.content .rightContent ul li {line-height:30px;}
+.content .rightContent ul li a img{display:block;margin-top:3px;}
+
+.content .rightContent .experience{padding-top:25px;}
+.content .rightContent .experience label{color:#595757;}
+.content .rightContent .experience .describe{height:101px;width:505px;outline:none;text-indent:11px;line-height:30px;margin-right:40px;}
+.content .rightContent .experience input{background:#710423;color:#fff;width:94px;height:35px;cursor:pointer;border:0px;margin-top:9px;margin-left:93px;}

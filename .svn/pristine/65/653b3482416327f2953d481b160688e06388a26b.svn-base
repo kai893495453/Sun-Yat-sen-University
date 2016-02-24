@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>中山大学管理学院</title>
+	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="css/common.css">
+	<link rel="stylesheet" href="css/student.css">
+</head>
+<body>
+	<div class="wrapper">		
+		<div class="header">
+			<div class="topbar">
+				<div class="logo fl">
+					<a href="index.html"><img src="images/logo.png" alt="logo" class="logoIcon"></a>
+					<img src="images/footAdv1.png" alt="" class="topAdv">
+					<img src="images/footAdv0.png" alt="" class="topAdv">
+				</div>
+				<div class="rightFrame fr">
+					<div class="loginFrame">
+						<a href="#">登录</a>
+						<a href="#" class="active middle">免费注册</a>
+						<a href="#">加入收藏</a>
+					</div>
+					<form action="">
+						<div class="searchFrame fr pr">
+							<input type="number" class="inputVal pa">
+							<input type="submit" class="search pa" value="搜索">
+						</div>
+					</form>
+					<div class="cb"></div>
+				</div>
+				<div class="cb"></div>
+			</div>
+			<div class="nav">
+				<span class="titleIcon">|</span><a href="#" class="active">中心官网</a>
+				<span class="titleIcon">|</span><a href="#">约课首页</a>
+				<span class="titleIcon">|</span><a href="#">课程中心</a>
+				<span class="titleIcon">|</span><a href="#">最新动态</a>
+				<span class="titleIcon">|</span><a href="#">会员专区</a>
+				<span class="titleIcon">|</span><a href="#">服务中心</a><span class="titleIcon">|</span>
+			</div>
+			<div class="banner">
+				<img src="images/banner/banner-small.png" alt="">
+			</div>
+		</div>
+		<div class="main">
+			<div class="content">
+				<div class="title">
+					<span class="titleIcon">|</span>
+					<h1>会员专区</h1>
+					<div class="cb"></div>
+				</div>
+				<div class="leftnav fl">
+					<a href=""><img src="images/newpic1.png"/></a>
+					<ul>
+						<li><img src="images/triangle.png"/><a href="">资料设置</a></li>
+						<li><img src="images/triangle.png"/><a href="">我的学习卷</a></li>
+						<li><img src="images/triangle.png"/><a href="">历史预约课程</a></li>
+						<li><img src="images/triangle.png"/><a href="">立即预约</a></li>
+						<li class="in"><img src="images/triangle.png"/><a href="">学员反馈</a></li>
+						<li ><img src="images/triangle.png"/><a href="">购买学习卡</a></li>
+						<li><img src="images/triangle.png"/><a href="">新课程提交</a></li>
+						<li><img src="images/triangle.png"/><a href="">我的收藏</a></li>
+					</ul>
+					<div class="bottom"></div>
+				</div>
+				
+				<div class="rightContent fr">
+					<div class="top pb5">
+						<div class=" stitle f16 fb">学员反馈</div>
+					</div>
+					<div class="formcon">
+						<form action="">
+							<div class="formtop">
+								<div>留下对中大的建议我们会尽快改进请输入你需要了解的需求和反馈</div>
+							</div>
+							<textarea name="" id="" ></textarea>
+							<div class="button "><input type="submit" class="f14 col-fff" value="提交你的需求"/></div>
+						</form>
+					</div>
+					
+					
+					
+				</div>
+				<div class="cb"></div>
+				
+			</div><!--content-->
+			
+		</div>
+		
+		<div class="footer">
+			<div class="content">
+				<div class="fl info">
+					<a href="#">联系我们</a>
+					<a href="#">在线咨询</a>
+					<a href="#">学院位置</a>
+					<a href="#">友情链接</a>
+					<ul>
+						<li>版权所有：中山大学管理学院EMBA教育中心 | 粤ICP备09116672号 020-84115588</li>
+						<li>Copyright © 2014 中山大学管理学院 All Rights Reserved</li>
+						<li>POWERED BY:100vic.com </li>
+					</ul>
+				</div>
+				<div class="fl footAdv">
+					<img src="images/footAdv1.png" alt="" class="adv">
+					<img src="images/footAdv0.png" alt="" class="adv">
+				</div>
+				<div class="scan">
+					<span class="fl">扫描关注我们</span>
+					<img src="images/footQcode.png" alt="" class="fr">
+					<div class="cb"></div>
+				</div>
+				<div class="cb"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

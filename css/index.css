@@ -1,0 +1,160 @@
+/*subnav子导航条*/
+.header .subnav{height:38px;line-height:38px;background:#000;width:100%;color:#fff;}
+.header .subnav .content{width:1000px;margin:0px auto;text-align: center;font-size:12px;background:url(../images/sprite/index.png) no-repeat 113px 13px;}
+.header .subnav .content a{color:#fff;padding:0px 14px;}
+.header .subnav .content a:hover{color:#710423;}
+
+/*banner图*/
+.header .banner{width:100%;z-index:1;}
+.header .banner .content {overflow: hidden;}
+.header .banner .content .bannerImg{width:4098px;}
+.header .banner .content .bannerImg li{float: left;}
+.header .banner .content .bannerImg li img{display: block;width:1366px;}
+.header .banner .bannerCtrl{bottom:-24px;width:50px;height:9px;z-index:9;left:0px;right:0px;margin:auto;}
+.header .banner .bannerCtrl li{float:left;width:9px;height:9px;background:#a1a1a1;border-radius:10px;margin-right:3px;margin-left:3px;}
+.header .banner .bannerCtrl li.active{background:#710423;}
+
+/*中间登录窗口*/
+.wrapper .main div.content .loginFrame{width:220px;height:430px;background:#7a0929;}
+.wrapper .main div.content .loginFrame .enter{display:block;width:74px;height:45px;line-height:45px;color:#595757;font-size:16px;float:left;text-align:left;padding-left:36px;}
+.wrapper .main div.content .loginFrame .business{background:url(../images/sprite/index.png) no-repeat 12px -21px #710423;color:#fff;}
+.wrapper .main div.content .loginFrame .customer{background:url(../images/sprite/index.png) no-repeat 12px -63px #f0f0f0;}
+.wrapper .main div.content .loginFrame .loginForm{padding-top:60px;}
+.wrapper .main div.content .loginFrame .loginForm label{background:url(../images/sprite/index.png) no-repeat -351px -375px;height:25px;width:25px;display:block;float: left;padding-left:24px;}
+.wrapper .main div.content .loginFrame .loginForm label.userL{background-position:-351px -375px;}
+.wrapper .main div.content .loginFrame .loginForm label.passL{background-position:-351px -297px;}
+.wrapper .main div.content .loginFrame .loginForm label.codeL{background-position:-351px -232px;}
+.wrapper .main div.content .loginFrame .loginForm .inputs{float: left;width:150px;height:25px;border:0;outline:none;margin-bottom:24px;text-indent:10px;font-family:"新宋体";}
+.wrapper .main div.content .loginFrame .loginForm .code{margin-bottom:8px;}
+.wrapper .main div.content .loginFrame .loginForm .identCode{float: right;padding-right:22px;}
+.wrapper .main div.content .loginFrame .loginForm .identCode a{color:#914c34;padding-right:8px;float: left;padding-top:6px;}
+.wrapper .main div.content .loginFrame .loginForm .identCode img{display:block;float: left;}
+.wrapper .main div.content .loginFrame .loginForm .postVals{width:175px;height:40px;font-family:"微软雅黑";font-size:18px;color:#fff;background:#5f5f5f;outline:none;border:0px;margin-left:24px;display: block;margin-top:42px;margin-bottom:9px;}
+.wrapper .main div.content .loginFrame .loginForm .aLink{font-family:"新宋体";font-size:12px;}
+.wrapper .main div.content .loginFrame .loginForm .forgetPassLink{padding-left:24px;color:#914c34;float: left;}
+.wrapper .main div.content .loginFrame .loginForm .regLink{color:#fff;float: right;padding-right:22px;}
+
+/*右边课程列表*/
+.wrapper .main div.content h1{padding-right:12px;}
+.wrapper .main .title a{font-size:12px;color:#595757;float: left;margin:0px 8px;display:block;height:41px;line-height:41px;}
+.wrapper .main .title a.active,.wrapper .main .title a:hover{color:#710423;border-bottom:3px solid #710423;}
+.wrapper .main .content .courseList table{width:778px;}
+.wrapper .main .content .courseList table .time{width:175px}
+.wrapper .main .content .courseList table .course{width:117px}
+.wrapper .main .content .courseList table  .teacher{width:85px}
+.wrapper .main .content .courseList table  .strength{width:148px}
+.wrapper .main .content .courseList table  .place{width:72p}
+.wrapper .main .content .courseList table  .sit{width:76px}
+.wrapper .main .content .courseList table  .operation{width:99px;padding-top:14px}
+.wrapper .main .content .courseList table tr th{font-size:14px;text-align:center;
+color:#710423;border-bottom:1px solid #eaeaea;padding:10px 0px;}
+.wrapper .main .content .courseList table tr td{height:80px;text-align:center;font-size:14px;border:1px solid #eaeaea}
+.wrapper .main .content .courseList table .one{width:49px}
+.wrapper .main .content .courseList table .two{width:76px}
+.wrapper .main .content .courseList table .three{width:48px}
+.wrapper .main .content .courseList table .four{width:117px}
+.wrapper .main .content .courseList table .five{width:85px}
+.wrapper .main .content .courseList table .six{width:116px;font-family:"新宋体";
+font-size:12px;padding-left:15px;padding-right:17px}
+.wrapper .main .content .courseList table .seven{width:72px}
+.wrapper .main .content .courseList table .eight{width:76px}
+.wrapper .main .content .courseList table .nine{width:70px;padding-left:15px;padding-right:14px}
+.wrapper .main .content .courseList table .nine a{display:inline-block;color:white;
+width:68px;height:22px;border:1px solid #d2d2d2;background-color:#710423;
+margin-top:5px}
+
+/*最新公告*/
+.wrapper .main .content .info{width:958px;padding:25px 12px 25px 28px;}
+.wrapper .main .content .info .news,.wrapper .main .content .info .courseInfo{width:467px;}
+.wrapper .main .content .info .courseInfo{margin-right:12px;}
+.wrapper .main .content .info .subTitle{border-bottom:1px solid #f1e5e9;}
+.wrapper .main .content .info h2{font-size:24px;font-family:"微软雅黑";color:#161616;float: left;line-height:24px;padding-top:2px;padding-bottom:8px;}
+.wrapper .main .content .info .titleIcon{float:left;padding:0px 10px 0px 0px;font-size:20px;color:#c4c4c4;}
+.wrapper .main .content .info .icon{color:#af3738;float: right;}
+.wrapper .main .content .info dt a{font-family:"新宋体";font-size:12px;color:#000;margin-left:12px;}
+.wrapper .main .content .info .more{float: right;font-family:"Arial";font-size:12px;color:#595757;padding-top:13px;}
+.wrapper .main .content .info .con{padding-top:12px;}
+.wrapper .main .content .info .con .adv{width:194px;float: left;}
+.wrapper .main .content .info .con .book{width:194px;display: block;}
+.wrapper .main .content .info .con a.bookTitle{display: block;width:194px;height:35px;line-height:35px;color:#fff;background:#710423;text-align: center;opacity:0.9;}
+.wrapper .main .content .info .con .list{float: left;padding-left:29px;}
+.wrapper .main .content .info .con .list li{padding-top:18px;}
+.wrapper .main .content .info .con .icon{width:3px;height:3px;background:#710423;float:left;font-size:0px;margin-right:9px;margin-top:5px;}
+.wrapper .main .content .info .con .list li a{font-size:12px;font-family:"新宋体";color:#000;float:left;}
+.wrapper .main .content .info .con dl{padding-left:16px;float:left;}
+.wrapper .main .content .info .con dl dd,.wrapper .main .content .info .con dl dt{float:left;font-size:12px;font-family:"新宋体";padding-top:18px;}
+.wrapper .main .content .info .con dl span{margin-top:18px;}
+.wrapper .main .content .info .courseInfo .con img{padding-right:12px;;padding-top:8px;}
+.wrapper .main .content .info .con .cutLine{border-bottom:1px solid #f1e5e9;padding-bottom:22px;}
+.wrapper .main .content .info .con .regCourse a.reg{width:178px;height:30px;line-height:30px;display:block;color:#7e1a35;font-size:14px;margin-top:20px;float:left;background:url(../images/sprite/index.png) no-repeat 15px -377px #e5e5e5;text-indent:35px;cursor:pointer;}
+.wrapper .main .content .info .con .regCourse p.tips{font-size:12px;color:#595757;width:208px;float:left;line-height:16px;padding-top:20px;font-family:"新宋体";margin-left:20px;}
+
+.wrapper .blackBg{width:100%;height:100%;background:#000;opacity:0.8;top:0px;z-index:99;display:none;}
+/*弹框*/
+.wrapper .regCourseInfo{width:1000px;margin:0px auto;display:none;position: fixed;top:50%;left:50%;z-index:999;margin-left:-500px;margin-top:-232px;}
+.wrapper .regCourseInfo .infoFrame{width:971px;background:#fff;height:464px;}
+.wrapper .regCourseInfo .infoFrame .regTitle{font-size:18px;color:#000;border-bottom:1px solid #cccccc;padding:90px 0px 12px 70px;}
+.wrapper .regCourseInfo .infoFrame .regTitle span{font-size:18px;padding-right:2px;background:#770727;margin-right:8px;}
+.wrapper .regCourseInfo .infoFrame .regContent{padding-top:45px;color:#770727;font-size:14px;}
+.wrapper .regCourseInfo .infoFrame .regContent .fl{padding-left:30px;padding-bottom:48px;}
+.wrapper .regCourseInfo .infoFrame .regContent .fr{padding-right:95px;padding-bottom:48px;}
+.wrapper .regCourseInfo .infoFrame .regContent label{padding-right:12px;text-align:right;float:left;width:115px;line-height:14px;}
+.wrapper .regCourseInfo .infoFrame .regContent .fl label{padding-top:8px;}
+.wrapper .regCourseInfo .infoFrame .regContent input{float: left;width:270px;height:28px;margin-bottom:16px;}
+.wrapper .regCourseInfo .infoFrame .regContent .fr input{margin-bottom:40px;}
+.wrapper .regCourseInfo .infoFrame .regContent input.lastItem{margin-bottom:0px;}
+.wrapper .regCourseInfo .infoFrame .regContent .postBtn{border-top: 1px solid #ccc;}
+.wrapper .regCourseInfo .infoFrame .regContent .postBtn .btnPostVal{width:118px;height:32px;background:#770727;color:#fff;font-size:18px;border:0px;outline:none;margin-top:15px;float: right;margin-right:98px;}
+/*登录*/
+.wrapper .logFrame{width:998px;height:424px;margin:0px auto;position: fixed;left:0px;top:0px;bottom:0px;right:0px;margin:auto;z-index:99;display:none;}
+.wrapper .logFrame .login{width:969px;background:#fff; }
+.wrapper .logFrame .login .title{border-bottom:1px solid #ccc;padding-left:158px;padding-top:62px;}
+.wrapper .logFrame .login .title .titleALink{font-size:14px;color:#fff;display: inline-block;width:112px;height:32px;text-align: center;background:#c5c5c5;line-height:32px;float: left;margin-right:2px;}
+.wrapper .logFrame .login .title .active,.wrapper .logFrame .login .title .titleALink:hover{background:#780827;}
+.wrapper .logFrame .login .title .accounted{font-family:"新宋体";font-size:12px;color:#4393ff;float: right;padding-right:174px;padding-top:10px;}
+.wrapper .logFrame .login .body{border-bottom:1px solid #ccc;}
+.wrapper .logFrame .login .body .adv{border-left:1px solid #ccc;}
+.wrapper .logFrame .login .body .adv img{display: block;}
+.wrapper .logFrame .login .body .logForm{padding-top:44px;}
+.wrapper .logFrame .login .body .logForm div{margin-bottom:20px;}
+.wrapper .logFrame .login .body .logForm .inputVal{margin-bottom:0px;}
+.wrapper .logFrame .login .body .logForm label{width:80px;display: inline-block;font-size:14px;font-family:"微软雅黑";text-align:right;padding-left:158px;padding-right:12px;color:#262626;}
+.wrapper .logFrame .login .body .logForm input{height:26px;outline: none;border:1px solid #ccc;width:198px;}
+.wrapper .logFrame .login .body .logForm .code{width:72px;margin-left:250px;}
+.wrapper .logFrame .login .body .logForm .idCode{padding-left:8px;}
+.wrapper .logFrame .login .body .logForm .changeLink{font-family:"新宋体";font-size:12px;color:#914c34;padding-left:9px;cursor:pointer;}
+.wrapper .logFrame .login .body .logForm .check{width:auto;height:auto;margin-left:250px;float: left;}
+.wrapper .logFrame .login .body .logForm span{font-size:12px;color:#262626;font-family:"新宋体";padding-left:8px;float: left;}
+.wrapper .logFrame .login .body .logForm .wrong{width:110px;height:32px;font-size:12px;color:#fff;background:#ff683f;text-align: center;line-height:32px;margin-top:14px;margin-left:16px;}
+.wrapper .logFrame .login .bottom{font-family:"新宋体";color:#262626;font-size:12px;padding-left:160px;padding-top:16px;padding-bottom:60px;}
+.wrapper .logFrame .login .bottom .postVal{width:110px;height:31px;color:#fff;background:#720524;border:0;outline:none;font-family:"微软雅黑";margin-right:8px;}
+.wrapper .logFrame .login .bottom a{color:#262626;}
+/*注册*/
+.wrapper .regFrame{width:998px;height:630px;margin:auto; position:fixed;top:0px;left:0px;right:0px;bottom:0px;z-index:99;display:none;}
+.wrapper .regFrame .reg{width:969px;background:#fff;}
+.wrapper .regFrame .reg .title{border-bottom:1px solid #ccc;padding-left:158px;padding-top:62px;}
+.wrapper .regFrame .reg .title .titleALink{font-size:14px;color:#fff;display: inline-block;width:112px;height:32px;text-align: center;background:#c5c5c5;line-height:32px;float: left;margin-right:2px;}
+.wrapper .regFrame .reg .title .active,.wrapper .regFrame .reg .title .titleALink:hover{background:#780827;}
+.wrapper .regFrame .reg .title .accounted{font-family:"新宋体";font-size:12px;color:#4393ff;float: right;padding-right:174px;padding-top:10px;}
+.wrapper .regFrame .reg .body{border-bottom:1px solid #ccc;}
+.wrapper .regFrame .reg .body .adv{border-left:1px solid #ccc;}
+.wrapper .regFrame .reg .body .adv img{display: block;}
+.wrapper .regFrame .reg .body .regForm{padding-top:44px;}
+.wrapper .regFrame .reg .body .regForm div{margin-bottom:3px;}
+.wrapper .regFrame .reg .body .regForm .inputVal{margin-bottom:0px;}
+.wrapper .regFrame .reg .body .regForm label{display: inline-block;font-size:14px;font-family:"微软雅黑";text-align:right;padding-left:90px;padding-right:12px;color:#262626;}
+.wrapper .regFrame .reg .body .regForm .rows{width:204px;font-size:12px;color:#929292;font-family:"新宋体";}
+.wrapper .regFrame .reg .body .regForm input{height:26px;outline: none;border:1px solid #ccc;width:198px;margin-bottom:8px;}
+.wrapper .regFrame .reg .body .regForm .tips{font-size:12px;font-family:"新宋体";padding-left:20px;padding-top:15px;}
+.wrapper .regFrame .reg .body .regForm .tips .tipsInfo{float:left;color:#929292;}
+.wrapper .regFrame .reg .body .regForm .tips img{display:block;padding-bottom:8px;padding-left:5px;}
+.wrapper .regFrame .reg .body .regForm .code{width:72px;margin-left:250px;}
+.wrapper .regFrame .reg .body .regForm .idCode{padding-left:8px;}
+.wrapper .regFrame .reg .body .regForm .changeLink{font-family:"新宋体";font-size:12px;color:#914c34;padding-left:9px;cursor:pointer;}
+.wrapper .regFrame .reg .body .regForm .check{width:auto;height:auto;margin-left:250px;float: left;}
+.wrapper .regFrame .reg .body .regForm span{font-size:12px;color:#262626;font-family:"新宋体";padding-left:8px;float: left;}
+.wrapper .regFrame .reg .body .regForm .wrong{width:110px;height:32px;font-size:12px;color:#fff;background:#ff683f;text-align: center;line-height:32px;margin-top:14px;margin-left:16px;}
+.wrapper .regFrame .reg .bottom{font-family:"新宋体";color:#262626;font-size:12px;padding-left:160px;padding-top:16px;padding-bottom:60px;}
+.wrapper .regFrame .reg .bottom .postVal{width:132px;height:32px;color:#fff;background:#720524;border:0;outline:none;font-family:"微软雅黑";margin-right:8px;}
+.wrapper .regFrame .reg .bottom a{color:#262626;}
+.wrapper .close{cursor:pointer;}

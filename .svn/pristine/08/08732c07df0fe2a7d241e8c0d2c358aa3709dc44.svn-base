@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>中山大学管理学院</title>
+	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="css/common.css">
+	<link rel="stylesheet" href="css/courseSubmit.css">
+</head>
+<body>
+	<div class="wrapper">		
+		<div class="header">
+			<div class="topbar">
+				<div class="logo fl">
+					<a href="index.html"><img src="images/logo.png" alt="logo" class="logoIcon"></a>
+					<img src="images/footAdv1.png" alt="" class="topAdv">
+					<img src="images/footAdv0.png" alt="" class="topAdv">
+				</div>
+				<div class="rightFrame fr">
+					<div class="loginFrame">
+						<a href="#">登录</a>
+						<a href="#" class="active middle">免费注册</a>
+						<a href="#">加入收藏</a>
+					</div>
+					<form action="">
+						<div class="searchFrame fr pr">
+							<input type="number" class="inputVal pa">
+							<input type="submit" class="search pa" value="搜索">
+						</div>
+					</form>
+					<div class="cb"></div>
+				</div>
+				<div class="cb"></div>
+			</div>
+			<div class="nav">
+				<span class="titleIcon">|</span><a href="#" class="active">中心官网</a>
+				<span class="titleIcon">|</span><a href="#">约课首页</a>
+				<span class="titleIcon">|</span><a href="#">课程中心</a>
+				<span class="titleIcon">|</span><a href="#">最新动态</a>
+				<span class="titleIcon">|</span><a href="#">会员专区</a>
+				<span class="titleIcon">|</span><a href="#">服务中心</a><span class="titleIcon">|</span>
+			</div>
+			<div class="banner">
+				<img src="images/banner/banner-small.png" alt="">
+			</div>
+		</div>
+		<div class="main">
+			<div class="content">
+				<div class="title">
+					<span class="titleIcon">|</span>
+					<h1>会员专区</h1>
+					<div class="cb"></div>
+				</div>
+				<div class="leftnav fl">
+					<a href=""><img src="images/newpic1.png"/></a>
+					<ul>
+						<li><img src="images/triangle.png"/><a href="">资料设置</a></li>
+						<li><img src="images/triangle.png"/><a href="">我的学习卷</a></li>
+						<li><img src="images/triangle.png"/><a href="">历史预约课程</a></li>
+						<li><img src="images/triangle.png"/><a href="">立即预约</a></li>
+						<li><img src="images/triangle.png"/><a href="">学员反馈</a></li>
+						<li ><img src="images/triangle.png"/><a href="">购买学习卡</a></li>
+						<li class="in"><img src="images/triangle.png"/><a href="">新课程提交</a></li>
+						<li ><img src="images/triangle.png"/><a href="">我的收藏</a></li>
+					</ul>
+					<div class="bottom"></div>
+				</div>
+				
+				<div class="rightContent fr">
+					<div class="top pb5">
+						<div class=" stitle f16 fb">新课程提交</div>
+					</div>
+					<div>
+						<div class="pl15 pt33 collection">
+							<div class="con">
+								<label for="name">姓名</label>
+								<input type="text" id="name" />
+							</div>
+							<div class="con">
+								<label for="phone">手机</label>
+								<input type="text" id="phone" />
+							</div>
+							<div class="con">
+								<label for="work">行业</label>
+								<input type="text" id="work" />
+							</div>
+							<div class="con">
+								<label for="position">单位与职务</label>
+								<input type="text" id="position" />
+							</div>
+							<div class="con1">
+								<label for="courseName" >希望能开设的课程名称</label>
+								<input type="text" id="courseName" />
+							</div>
+							<div class="con1">
+								<label for="type">希望授课<br/>师资类型</label>
+								<input type="text" id="type" />
+							</div>
+							<div class="con1">
+								<label for="notice">您需要的课程安排后如何通知您</label>
+								<input type="text" id="notice" />
+							</div>
+						</div>
+						<div class="need"><a href="" >提交需求</a></div>
+					</div>
+					
+					
+				</div>
+				<div class="cb"></div>
+				
+			</div><!--content-->
+			
+		</div>
+		
+		<div class="footer">
+			<div class="content">
+				<div class="fl info">
+					<a href="#">联系我们</a>
+					<a href="#">在线咨询</a>
+					<a href="#">学院位置</a>
+					<a href="#">友情链接</a>
+					<ul>
+						<li>版权所有：中山大学管理学院EMBA教育中心 | 粤ICP备09116672号 020-84115588</li>
+						<li>Copyright © 2014 中山大学管理学院 All Rights Reserved</li>
+						<li>POWERED BY:100vic.com </li>
+					</ul>
+				</div>
+				<div class="fl footAdv">
+					<img src="images/footAdv1.png" alt="" class="adv">
+					<img src="images/footAdv0.png" alt="" class="adv">
+				</div>
+				<div class="scan">
+					<span class="fl">扫描关注我们</span>
+					<img src="images/footQcode.png" alt="" class="fr">
+					<div class="cb"></div>
+				</div>
+				<div class="cb"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

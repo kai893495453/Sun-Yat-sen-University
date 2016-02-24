@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>中山大学管理学院</title>
+	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="css/common.css">
+	<link rel="stylesheet" href="css/dataSet.css">
+</head>
+<body>
+	<div class="wrapper">		
+		<div class="header">
+			<div class="topbar">
+				<div class="logo fl">
+					<a href="index.html"><img src="images/logo.png" alt="logo" class="logoIcon"></a>
+					<img src="images/footAdv1.png" alt="" class="topAdv">
+					<img src="images/footAdv0.png" alt="" class="topAdv">
+				</div>
+				<div class="rightFrame fr">
+					<div class="loginFrame">
+						<a href="#">登录</a>
+						<a href="#" class="active middle">免费注册</a>
+						<a href="#">加入收藏</a>
+					</div>
+					<form action="">
+						<div class="searchFrame fr pr">
+							<input type="number" class="inputVal pa">
+							<input type="submit" class="search pa" value="搜索">
+						</div>
+					</form>
+					<div class="cb"></div>
+				</div>
+				<div class="cb"></div>
+			</div>
+			<div class="nav">
+				<span class="titleIcon">|</span><a href="#" class="active">中心官网</a>
+				<span class="titleIcon">|</span><a href="#">约课首页</a>
+				<span class="titleIcon">|</span><a href="#">课程中心</a>
+				<span class="titleIcon">|</span><a href="#">最新动态</a>
+				<span class="titleIcon">|</span><a href="#">会员专区</a>
+				<span class="titleIcon">|</span><a href="#">服务中心</a><span class="titleIcon">|</span>
+			</div>
+			<div class="banner">
+				<img src="images/banner/banner-small.png" alt="">
+			</div>
+		</div>
+		<div class="main">
+			<div class="content">
+				<div class="title">
+					<span class="titleIcon">|</span>
+					<h1>会员专区</h1>
+					<div class="cb"></div>
+				</div>
+				<div class="leftnav fl">
+					<a href=""><img src="images/newpic1.png"/></a>
+					<ul>
+						<li class="in"><img src="images/triangle.png"/><a href="">资料设置</a></li>
+						<li><img src="images/triangle.png"/><a href="">我的学习卷</a></li>
+						<li><img src="images/triangle.png"/><a href="">历史预约课程</a></li>
+						<li><img src="images/triangle.png"/><a href="">立即预约</a></li>
+						<li><img src="images/triangle.png"/><a href="">学员反馈</a></li>
+						<li ><img src="images/triangle.png"/><a href="">购买学习卡</a></li>
+						<li><img src="images/triangle.png"/><a href="">新课程提交</a></li>
+						<li><img src="images/triangle.png"/><a href="">我的收藏</a></li>
+					</ul>
+					<div class="bottom"></div>
+				</div>
+				
+				<div class="rightContent fr">
+					<div  class="f18 pb35">
+						<div class="hello">Hi，你好&nbsp;&nbsp;<a href="">广州市佰维网络科技有限公司</a></div>
+					</div>
+					<div class="top pb5">
+						<div class=" stitle f16 fb">资料设置</div>
+					</div>
+					<div class="cont">
+						<div class="fl pt25">
+							<div class="lab">
+								<label class="fl" for="name"  >姓名</label>
+								<div class="user fl pr15 pl15">
+									<input type="text" id="name" placeholder="张全"/>
+									<span>发布竞拍品产品必填</span>
+								</div>
+								<div class="fl revise"><a href="">修改</a></div>
+								<div class="cb"></div>
+							</div>
+							<div class="lab  pt15">
+								<label class="fl" for="phone">密保手机</label>
+								<div class="user fl pr15 pl15">
+									<input type="text" id="phone" placeholder="15888884526"/>
+								</div>
+								<div class="fl revise"><a href="">修改</a></div>
+								<div class="cb"></div>
+							</div>
+							<div class="lab  pt20">
+								<label class="fl" for="tell">电话号码</label>
+								<div class="user fl pr15 pl15">
+									<input type="text" id="tell" placeholder="020-84268888"/>
+								</div>
+								<div class="fl revise"><a href="">修改</a></div>
+								<div class="cb"></div>
+							</div>
+							<div class="lab pt20">
+								<label class="fl" for="add"  >联系地址</label>
+								<div class="add fl  pl15">
+									<input type="text" id="add" placeholder="广州市东风中路144号2402室"/>
+									<span class="fl">多个博客地址请用逗号（，）分隔，例如  a.com.b.com</span>
+									<span class="revise fr"><a href="">修改</a></span>
+									<div class="cb"></div>
+								</div>
+								
+								<div class="cb"></div>
+							</div>
+							<input type="submit" class="postVal" value="提交资料" />
+						</div>
+						<div class="fr imgFrame">
+							<img src="" alt="" class="avatar">
+							<button class="btnOption mr5">打开</button>
+							<input type="submit" value="上传" class="btnOption active">
+							<div class="cb"></div>
+						</div>
+						<div class="cb"></div>
+					</div>
+					<div class="top pb5 pt50">
+						<div class=" stitle f16 fb">修改密码</div>
+					</div>
+					<div class="cont">
+						<div class="row">
+							<label for="oldPassword" class="PassL">原密码</label>
+							<input type="password" class="passwordInput" id="oldPassword">
+							<div class="cb"></div>
+						</div>
+						<div class="row">
+							<label for="newPassword" class="PassL">新密码</label>
+							<input type="password" class="passwordInput" id="newPassword">
+							<div class="cb"></div>
+						</div>
+						<div class="row">
+							<label for="rePassword" class="PassL">重新密码</label>
+							<input type="password" class="passwordInput" id="rePassword">
+							<div class="cb"></div>
+						</div>
+						<input type="submit" class="postVal" value="保存更改" />
+					</div>
+				</div>
+				<div class="cb"></div>
+				
+			</div><!--content-->
+			
+		</div>
+		
+		<div class="footer">
+			<div class="content">
+				<div class="fl info">
+					<a href="#">联系我们</a>
+					<a href="#">在线咨询</a>
+					<a href="#">学院位置</a>
+					<a href="#">友情链接</a>
+					<ul>
+						<li>版权所有：中山大学管理学院EMBA教育中心 | 粤ICP备09116672号 020-84115588</li>
+						<li>Copyright © 2014 中山大学管理学院 All Rights Reserved</li>
+						<li>POWERED BY:100vic.com </li>
+					</ul>
+				</div>
+				<div class="fl footAdv">
+					<img src="images/footAdv1.png" alt="" class="adv">
+					<img src="images/footAdv0.png" alt="" class="adv">
+				</div>
+				<div class="scan">
+					<span class="fl">扫描关注我们</span>
+					<img src="images/footQcode.png" alt="" class="fr">
+					<div class="cb"></div>
+				</div>
+				<div class="cb"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

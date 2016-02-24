@@ -1,0 +1,31 @@
+/*右边标题*/
+.content .rightContent{width:660px;padding-right:57px;padding-top:61px;}
+.content .rightContent .stitle{padding-bottom:5px;background:url(../images/sprite/member.png) no-repeat 0px 5px;padding-left:20px;color:#262626;}
+
+.wrapper .main .content .rightContent table .do{border:1px solid #eaeaea;height:65px}
+.wrapper .main .content .rightContent table .time{width:125px}
+.wrapper .main .content .rightContent table .course{width:150px}
+.wrapper .main .content .rightContent table  .teacher{width:63px}
+.wrapper .main .content .rightContent table  .strength{width:96px}
+.wrapper .main .content .rightContent table  .place{width:63px}
+.wrapper .main .content .rightContent table  .sit{width:78px}
+.wrapper .main .content .rightContent table  .operation{width:91px}
+.wrapper .main .content .rightContent table tr th{font-size:14px;text-align:center;
+color:#710423;border-bottom:1px solid #eaeaea;padding-top:11px;padding-bottom:11px}
+.wrapper .main .content .rightContent table tr{height:96px}
+
+.wrapper .main .content .rightContent table tr td{height:80px;text-align:center;font-size:14px;border:1px solid #eaeaea}
+.wrapper .main .content .rightContent table .one{width:43px}
+.wrapper .main .content .rightContent table .two{width:81px}
+.wrapper .main .content .rightContent table .four{width:150px}
+.wrapper .main .content .rightContent table .five{width:57px}
+.wrapper .main .content .rightContent table .six{width:48px;font-family:"新宋体";
+font-size:12px;padding-left:12px;padding-right:12px;line-height:18px}
+.wrapper .main .content .rightContent table .seven{width:56px}
+.wrapper .main .content .rightContent table .eight{width:78px}
+.wrapper .main .content .rightContent table .nine{width:91px;}
+.wrapper .main .content .rightContent table .nine a{font-size:12px;font-family:"新宋体";
+color:#710423}
+.wrapper .main .content .rightContent table .nine p a{color:#acabab}
+
+.wrapper .main .page{text-align:center;padding-top:33px;padding-bottom:35px;border:none}

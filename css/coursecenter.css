@@ -1,0 +1,67 @@
+.wrapper .main .content{margin:0 auto}
+.wrapper .main .content{background-color:white}
+.wrapper .main .content .all .style .top ul li .other{padding-right:0px}
+.wrapper .main .content .all .style .top{padding-top:24px;padding-left:25px;padding-bottom:35px}
+.wrapper .main .content .all .style .top ul li a:hover {color:#710423}
+.wrapper .main .content .all .style .top ul li a{padding-right:17px;font-size:12px;color:#595757;padding-bottom:1px}
+.wrapper .main .content .all .style .top ul li{height:17px;line-height:17px;padding-top:7px}
+.wrapper .main .content .all .style .top ul li .title{color:#710423}
+.wrapper .main .content .all .style .top ul li input{outline:none;border-radius:6px;
+border:1px solid #aaa;padding-left:6px;width:108px;position:relative;z-index:2}
+.wrapper .main .content .all .style .top ul li button{width:60px;height:17px;color:white;
+border-radius:6px;border:1px solid #710423;background-color:#710423;position: relative;
+left:-15px;z-index:1;top:1px;outline:none}
+
+.wrapper .main .content .all .style .sort{width:778px;height:26px;border-bottom:1px solid #e5e5e5;
+background-color:#f4f4f4;text-align:center}
+.wrapper .main .content .all .style .sort a{display:inline-block}
+.wrapper .main .content .all .style .sort .hot{width:105px;height:25px;color:#710423;
+border-top:1px solid #710423;background-color:white;}
+.wrapper .main .content .all .style .sort .new{width:105px;height:25px;color:#595757;
+margin-left:-5px}
+.wrapper .main .content .all .style .sort .new:hover{color:#710423;background-color:white;border-top:1px solid #710423}
+
+.wrapper .main .content .all .style table{width:778px}
+.wrapper .main .content .all .style table .time{width:175px}
+.wrapper .main .content .all .style table .course{width:117px}
+.wrapper .main .content .all .style table  .teacher{width:85px}
+.wrapper .main .content .all .style table  .strength{width:148px}
+.wrapper .main .content .all .style table  .place{width:72p}
+.wrapper .main .content .all .style table  .sit{width:76px}
+.wrapper .main .content .all .style table  .operation{width:99px;padding-top:14px}
+.wrapper .main .content .all .style table tr th{font-size:14px;text-align:center;
+color:#710423;border-bottom:1px solid #eaeaea;padding-top:11px;padding-bottom:11px}
+
+.wrapper .main .content .all .style table tr td{height:80px;text-align:center;font-size:14px;border:1px solid #eaeaea}
+.wrapper .main .content .all .style table .one{width:49px}
+.wrapper .main .content .all .style table .two{width:76px}
+.wrapper .main .content .all .style table .three{width:48px}
+.wrapper .main .content .all .style table .four{width:117px}
+.wrapper .main .content .all .style table .five{width:85px}
+.wrapper .main .content .all .style table .six{width:116px;font-family:"新宋体";
+font-size:12px;padding-left:15px;padding-right:17px}
+.wrapper .main .content .all .style table .seven{width:72px}
+.wrapper .main .content .all .style table .eight{width:76px}
+.wrapper .main .content .all .style table .nine{width:70px;padding-left:15px;padding-right:14px}
+.wrapper .main .content .all .style table .nine a{display:inline-block;color:white;
+width:68px;height:22px;border:1px solid #d2d2d2;background-color:#710423;
+margin-top:5px}
+
+.wrapper .main .content .all .message {width:218px;border-left:1px solid #e5e5e5}
+.wrapper .main .content .all .message .font{padding-bottom:2px;margin-left:26px;
+border-bottom:1px solid #710423;margin-right:26px;margin-bottom:18px}
+.wrapper .main .content .all .message .font .more{margin-left:59px;margin-top:5px;
+color:#595757;font-size:12px;font-family:"Arial";}
+.wrapper .main .content .all .message .font .i{color:#d9d9d9;font-size:14px}
+.wrapper .main .content .all .message .font .news{padding-left:5px;color:#2d2d2d;font-size:14px}
+.wrapper .main .content .all .message .plus{color:#710423;font-size:8px;padding-top:26px;
+padding-left:188px;}
+
+
+.wrapper .main .content .all .message ul li{font-family:"新宋体";font-size:12px;padding-bottom:18px;}
+.wrapper .main .content .all .message ul li a{color:#333}
+.wrapper .main .content .all .message ul li .spot{width:3px;height:3px;background-color:#710423;
+display:inline-block;margin-top:5px;margin-right:9px;margin-left:33px}
+.wrapper .main .content .all .message img{padding-top:25px;padding-left:11px}
+
+

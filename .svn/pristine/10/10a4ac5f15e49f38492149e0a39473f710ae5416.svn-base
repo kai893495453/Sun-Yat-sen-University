@@ -1,0 +1,21 @@
+.wrapper .main .content{margin:0 auto}
+.wrapper .main .story{margin:0 auto;width:1000px}
+.wrapper .main .story .pic{padding-left:60px;padding-bottom:32px}
+.wrapper .main .story .font{padding-top:90px}
+.wrapper .main .story .font .t{color:#710423;font-size:24px;}
+.wrapper .main .story .font p{font-size:14px;line-height:30px;padding-top:25px
+text-indent:27px;padding-bottom:12px}
+.wrapper .main .story .font .b{font-family:"新宋体";font-szie:12px;color:#595757}
+.wrapper .main .story .notice{margin:0 auto;width:870px;line-height:52px;
+border-top:1px solid #e5e5e5;}
+.wrapper .main .story .notice a{font-size:18px;color:#333;}
+.wrapper .main .story .notice ul li{border-bottom:1px solid #e5e5e5;}
+.wrapper .main .story .page{text-align:center;padding-top:45px;padding-bottom:43px;border-bottom:1px solid #e5e5e5}
+.wrapper .main .story .page a img{padding-left:5px;padding-right:5px}
+.wrapper .main .story .page a {color:#333;font-family:"新宋体"}
+.wrapper .main .story .page .next,.wrapper .main .story .page .go{padding:6px 12px;
+border:1px solid #e5e5e5;border-radius:5px;}
+.wrapper .main .story .page .one{color:#710423;padding-left:15px;padding-right:15px}
+.wrapper .main .story .page .all{color:#333;padding:6px 10px;border:1px solid #ccc;border-radius:5px}
+.wrapper .main .story .page .all:hover{border:1px solid white}
+

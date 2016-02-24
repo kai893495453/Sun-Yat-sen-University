@@ -1,0 +1,16 @@
+/*右边标题*/
+.content .rightContent{width:660px;padding-right:57px;padding-top:55px;}
+.content .rightContent .stitle{background:url(../images/sprite/member.png) no-repeat 0px 5px;padding-left:20px;color:#262626;}
+.content .rightContent .top a{color:#710423;}
+/*右边标题下划线*/
+.content .rightContent .top {border-bottom:1px solid #eaeaea;}
+
+.content .rightContent .collection{padding-bottom:23px;border-bottom:1px solid #eaeaea;}
+.content .rightContent label{color:#710423;font-size:14px;width:113px;display:inline-block;text-align:right;}
+.content .rightContent input{width:192px;height:26px;border:1px solid #dbdbdb;outline:none;text-indent:11px;}
+.content .rightContent .con{line-height:45px;height:45px;}
+.content .rightContent .con1 label{text-indent:25px;}
+.content .rightContent .con1{height:65px;}
+.content .rightContent .con1 input{display:inline-block;}
+.content .rightContent .need{padding-top:30px;padding-left:138px;}
+.content .rightContent .need a{font-size:18px;color:#fff;padding:7px 22px;background:#710423;}

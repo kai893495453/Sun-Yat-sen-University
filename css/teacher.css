@@ -1,0 +1,70 @@
+.wrapper .main .content .top{margin-top:60px;}
+.wrapper .main .content .top img{margin-left:62px;}
+.wrapper .main .content .top .caption{font-size:24px;color:#710423;}
+.wrapper .main .content .top .text span{font-size:24px;margin-left:17px}
+.wrapper .main .content .top .text{font-size:14px;margin-left:30px;width:380px}
+.wrapper .main .content .top .text .one{padding-top:28px;font-size:12px}
+.wrapper .main .content .top .text .two{padding-top:9px;padding-left:75px;font-size:12px}
+.wrapper .main .content .top .text .three{padding-top:7px;padding-left:75px;font-size:12px}
+.wrapper .main .content .top .text .five{padding-top:11px}
+.wrapper .main .content .top .text .six{padding-top:7px;padding-bottom:6px}
+.wrapper .main .content .top .text p .four{font-size:30px;font-family:"Arial";color:#710423}
+.wrapper .main .content .top .text p .c{color:#710423;font-size:14px;margin-left:0}
+
+.wrapper .main .content .top .right .upper{font-size:14px;color:#710423;padding-left:132px;}
+.wrapper .main .content .top .right .upper .font{color:#999;font-size:14px}
+.wrapper .main .content .top .right .upper .mun{font-size:30px;font-family:"Arial";color:#710423}
+.wrapper .main .content .top .right .lower{padding-left:76px;padding-top:97px;color:#999;font-size:14px}
+.wrapper .main .content .top .right .lower .digit{color:#710423;font-family:"Arial";font-size:46px}
+.wrapper .main .content .top .right a{width:140px;height:33px;color:white;
+background-color:#595757;display:inline-block;line-height:33px;text-align:center;
+margin-left:75px;border-radius:15px}
+.wrapper .main .content .top .right{padding-right:12px;border-right:1px solid #e5e5e5}
+
+.wrapper .main .content .teacherprofile{margin-top:40px;width:887px;
+margin-left:60px;border:1px solid #b2b2b2}
+.wrapper .main .content .teacherprofile .choose{height:30px;line-height:30px;
+text-align:center;border-bottom:1px solid #b2b2b2}
+.wrapper .main .content .teacherprofile .choose a{margin-right:65px;color:#595757}
+.wrapper .main .content .teacherprofile .choose .profile2{color:#710423}
+.wrapper .main .content .teacherprofile .choose a:hover{color:#710423}
+
+.wrapper .main .content .teacherprofile .present{padding-top:42px}
+.wrapper .main .content .teacherprofile .present .left{width:230px;padding-left:45px}
+.wrapper .main .content .teacherprofile .present .left .font{padding-left:37px;font-size:12px;
+font-family:"宋体"}
+.wrapper .main .content .teacherprofile .present .left .font span{padding-left:15px;color:#710423}
+
+.wrapper .main .content .teacherprofile .present .right{padding-left:50px;padding-top:40px;width:434px}
+.wrapper .main .content .teacherprofile .present .right .caption{color:#710423;text-align:center;padding-bottom:14px}
+.wrapper .main .content .teacherprofile .present .right .font{font-family:"宋体";font-size:12px;
+text-align:center;padding-bottom:15px}
+.wrapper .main .content .teacherprofile .present .right .font span{padding-left:15px;
+color:#710423;}
+.wrapper .main .content .teacherprofile .present .right .particulars{text-indent:20px;
+font-size:12px;font-family:"宋体";padding-bottom:37px}
+
+.wrapper .main .content .teacherprofile .present .right ul li{font-size:12px;
+font-family:"宋体";padding-bottom:18px;text-align:center}
+.wrapper .main .content .teacherprofile .present .right ul li .spot{width:3px;height:3px;background-color:#710423;
+display:inline-block;margin-top:5px;margin-right:10px}
+
+.wrapper .main .content .teacherprofile .present .right .caption2{color:#710423;
+text-align:center;padding-top:22px;padding-bottom:15px}
+.wrapper .main .content .teacherprofile .present .right .particulars2{text-indent:20px;
+font-size:12px;font-family:"宋体";padding-bottom:48px;border-bottom:1px solid #eee;
+margin-bottom:25px}
+
+.wrapper .main .content .teacherprofile .present .right ul li{color:#595757;}
+.wrapper .main .content .teacherprofile .present .right .collection{width:130px;height:32px;
+background-color:#710423;display:inline-block;color:white;line-height:32px;
+text-align:center;border-radius:3px;margin-left:158px;margin-top:17px;margin-bottom:40px}
+
+.wrapper .main .content .teacherprofile{position:relative;}
+.wrapper .main .content .teacherprofile .choose .profile2 img{position:absolute;left:400px;top:30px;display:none}
+.wrapper .main .content .teacherprofile .choose .profile2:hover img{display:block}
+.wrapper .main .content .teacherprofile .choose .profile1 img{position:absolute;left:269px;top:30px;display:none}
+.wrapper .main .content .teacherprofile .choose .profile1:hover img{display:block}
+.wrapper .main .content .teacherprofile .choose .profile3 img{position:absolute;left:538px;top:30px;display:none}
+.wrapper .main .content .teacherprofile .choose .profile3:hover img{display:block}
+

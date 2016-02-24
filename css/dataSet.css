@@ -1,0 +1,30 @@
+/*右边标题*/
+.content .rightContent{width:660px;padding-right:57px;padding-top:50px;}
+.content .rightContent .stitle{background:url(../images/sprite/member.png) no-repeat 0px 5px;padding-left:20px;color:#262626;}
+.content .rightContent .top a{color:#710423;}
+/*右边标题下划线*/
+.content .rightContent .top {border-bottom:1px solid #eaeaea;}
+
+
+
+.content .rightContent .hello{color:#000;}
+.content .rightContent .hello a{color:#710423;}
+.content .rightContent .cont .user{width:250px;}
+.content .rightContent .cont .lab{width:460px;}
+.content .rightContent .cont label{color:#262626;font-size:14px;width:60px;display:inline-block;text-align:right;margin-top:5px;}
+.content .rightContent .cont .user input{width:247px;height:26px;border:1px solid #dbdbdb;outline:none;text-indent:11px;}
+.content .rightContent .cont .user span{color:#929292;font-size:12px;font-family:"新宋体";}
+.content .rightContent .cont .revise a{color:#262626;font-size:12px;padding:4px 12px;background:#e5e5e5;}
+.content .rightContent .cont .revise{margin-top:2px;}
+.content .rightContent .cont .add input{width:380px;height:26px;border:1px solid #dbdbdb;outline:none;text-indent:11px;}
+.content .rightContent .cont .add span{color:#929292;font-size:12px;padding-top:2px;font-family:"新宋体";}
+.content .rightContent .cont .add{width:385px;}
+.content .rightContent .cont .add .revise {margin-right:3px;margin-top:10px; padding: 0px;display: inline-block;width: 48px;height: 19px;}
+.content .rightContent .cont .postVal{width:120px;height:31px;line-height:31px;text-align:left;color:#fff;background:url(../images/sprite/dataSet.png) no-repeat 98px 0px #710423;outline: none;border:0;font-style:14px;font-family:"微软雅黑";padding-left:22px;margin-top:20px;margin-left:75px;}
+.content .rightContent .cont .imgFrame{width:112px;padding-top:24px;padding-right:25px;}
+.content .rightContent .cont .imgFrame .avatar{width:110px;height:110px;border:1px solid #d6d6d6;margin-bottom:8px;}
+.content .rightContent .cont .imgFrame .btnOption{width:53px;height:19px;color:#262626;opacity:0.8;float: left;border:0px;background:#e5e5e5;}
+.content .rightContent .cont .imgFrame .active{background:#710423;color:#fff;}
+.content .rightContent .cont .row{padding-top:24px;}
+.content .rightContent .cont .row label{font-style:14px;font-family:"微软雅黑";color:#262626;opacity:0.8;float:left;padding-right:12px;}
+.content .rightContent .cont .row input{width:250px;height:28px;float:left;}

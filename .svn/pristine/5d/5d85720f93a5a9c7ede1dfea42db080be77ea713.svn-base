@@ -1,0 +1,332 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>课程中心</title>
+</head>
+<link  rel="stylesheet" type="text/css" href="css/base.css">
+<link  rel="stylesheet" type="text/css" href="css/common.css">
+<link  rel="stylesheet" type="text/css" href="css/coursecenter.css">
+
+<body>
+	<div class="wrapper">
+		<div class="header">
+			<div class="topbar">
+				<div class="logo fl">
+					<a href="index.html"><img src="images/logo.png" alt="logo" class="logoIcon"></a>
+					<img src="images/footAdv1.png" alt="" class="topAdv">
+					<img src="images/footAdv0.png" alt="" class="topAdv">
+				</div>
+				<div class="rightFrame fr">
+					<div class="loginFrame">
+						<a href="#">登录</a>
+						<a href="#" class="active middle">免费注册</a>
+						<a href="#">加入收藏</a>
+					</div>
+					<form action="">
+						<div class="searchFrame fr pr">
+							<input type="number" class="inputVal pa">
+							<input type="submit" class="search pa" value="搜索">
+						</div>
+					</form>
+					<div class="cb"></div>
+				</div>
+				<div class="cb"></div>
+			</div>
+			<div class="nav">
+				<span class="titleIcon">|</span><a href="#" class="active">中心官网</a>
+				<span class="titleIcon">|</span><a href="#">约课首页</a>
+				<span class="titleIcon">|</span><a href="#">课程中心</a>
+				<span class="titleIcon">|</span><a href="#">最新动态</a>
+				<span class="titleIcon">|</span><a href="#">会员专区</a>
+				<span class="titleIcon">|</span><a href="#">服务中心</a><span class="titleIcon">|</span>
+			</div>
+			<div class="banner">
+				<img src="images/banner/banner-small.png" alt="">
+			</div>
+		</div>
+		<div class="main">
+			<div class="content">
+				<div class="title">
+					<span class="titleIcon">|</span>
+					<h1>课程中心</h1>
+					<div class="cb"></div>
+				</div><!--title-->
+				<div class="all">
+					<div class="style fl">
+						<div class="top">
+							<ul>
+								<li>
+								<a class="title" href="">课程类目</a>
+								<a  href="">无限</a>
+								<a  href="">人力资源</a>
+								<a  href="">市场营销财务管理</a>
+								<a  href="">领导力</a>
+								<a  href="">互联网思维</a>
+								<a  href="">国学智慧</a>
+								<a  href="">名家课堂</a>
+								<a  href="">管理技能</a>
+								<a  href="">投资理财</a>
+								<a  class="other" href="">其他</a>
+								<div class="cb"></div>
+								</li>
+								<li>
+								<a class="title" href="">开合时间</a>
+								<a href="">无限</a>
+								<a href="">1月</a>
+								<a href="">2月</a>
+								<a href="">3月</a>
+								<a href="">4月</a>
+								<a href="">5月</a>
+								<a href="">6月</a>
+								<a href="">7月</a>
+								<a href="">8月</a>
+								<a href="">9月</a>
+								<a href="">10月</a>
+								<a href="">11月</a>
+								<a href="">12月</a>
+								<a href="">汇总</a>
+								<div class="cb"></div>
+								</li>
+								<li>
+								<a class="title" href="">讲师师资</a>
+								<a href="">无限</a>
+								<a href="">路全长</a>
+								<a href="">路全长</a>
+								<a href="">路全长</a>
+								<a href="">路全长</a>
+								<a href="">路全长</a>
+								<a href="">路全长</a>
+								<input type="text"></input>
+								<button>搜索</button>
+								<div class="cb"></div>
+								</li>
+							</ul>
+						<div class="cb"></div>
+						</div><!--top-->
+						<div class="sort">
+							<a class="hot" href="">热门排序</a>
+							<a class="new" href="">最新排序</a>
+						</div><!--sort-->
+						<table cellspacing="1">
+						<tr>
+							<th colspan="3" class="time">授课时间</th>
+							<th class="course">课程名称</th>
+							<th class="teacher">授课师资</th>
+							<th class="strength">师资介绍</th>
+							<th class="place">授课地点</th>
+							<th class="sit">剩余可<br/>预约座位</th>
+							<th class="operation">操作</th>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="one">四月</td>
+							<td class="two">4月17日</td>
+							<td class="three">周六</td>
+							<td class="four">品牌营销</td>
+							<td class="five">路长全</td>
+							<td class="six">路长全，中大研究院院长，营销专业家指导师中大研究院院长</td>
+							<td class="seven">中大</td>
+							<td class="eight">200/位</td>
+							<td class="nine">
+								<a href="">了解更多</a>
+								<a href="">预约</a>
+							</td>
+						</tr>
+				
+						
+					</table>
+					</div><!--style-->
+					<div class="message fl">
+						<div class="plus">+</div>
+						<div class="font">
+							<div class="i fl">|</div>
+							<div class="news fl">课程信息</div>
+							<a href="" class="more fl">MORE</a>
+							<div class="cb"></div>
+						</div>
+						<ul>
+							<li><span class="spot fl"></span><a href="">公开课向乔布斯学演讲</a></li>
+							<li><span class="spot fl"></span><a href="">公开课商务沟通交流</a></li>
+							<li><span class="spot fl"></span><a href="">公开课向乔布斯学演讲</a></li>
+							<li><span class="spot fl"></span><a href="">公开课商务沟通交流</a></li>
+							<li><span class="spot fl"></span><a href="">公开课向乔布斯学演讲</a></li>
+							<li><span class="spot fl"></span><a href="">公开课商务沟通交流</a></li>
+							<li><span class="spot fl"></span><a href="">公开课向乔布斯学演讲</a></li>
+							<li><span class="spot fl"></span><a href="">公开课商务沟通交流</a></li>
+						</ul>
+					</div><!--message-->
+					<div class="message fl">
+						<div class="plus">+</div>
+						<div class="font">
+							<div class="i fl">|</div>
+							<div class="news fl">最新公告</div>
+							<a href="" class="more fl">MORE</a>
+							<div class="cb"></div>
+						</div>
+						<ul>
+							<li><span class="spot fl"></span><a href="">公开课向乔布斯学演讲</a></li>
+							<li><span class="spot fl"></span><a href="">公开课商务沟通交流</a></li>
+							<li><span class="spot fl"></span><a href="">公开课向乔布斯学演讲</a></li>
+							<li><span class="spot fl"></span><a href="">公开课商务沟通交流</a></li>
+							<li><span class="spot fl"></span><a href="">公开课向乔布斯学演讲</a></li>
+							<li><span class="spot fl"></span><a href="">公开课商务沟通交流</a></li>
+							<li><span class="spot fl"></span><a href="">公开课向乔布斯学演讲</a></li>
+							<li><span class="spot fl"></span><a href="">公开课商务沟通交流</a></li>
+						</ul>
+						<img src="images/ddd/courseupgrade.png" alt="" />
+					</div><!--message-->
+					<div class="cb"></div>
+				</div><!--all-->
+			
+				<div class="page">
+					<a href="" class="next"><img src="images/ddd/graytriangle.png" alt="" />上一页</a>
+					<a class="one" href="">1</a>
+					<a class="all" href="">2</a>
+					<a class="all" href="">3</a>
+					<a class="all" href="">4</a>
+					<a class="go" href="">下一页<img src="images/ddd/redtriangle.png" alt="" /></a>				
+				</div><!--page-->
+			
+			
+			</div><!--content-->
+	</div><!--main-->
+	<div class="footer">
+			<div class="content">
+				<div class="fl info">
+					<a href="#">联系我们</a>
+					<a href="#">在线咨询</a>
+					<a href="#">学院位置</a>
+					<a href="#">友情链接</a>
+					<ul>
+						<li>版权所有：中山大学管理学院EMBA教育中心 | 粤ICP备09116672号 020-84115588</li>
+						<li>Copyright © 2014 中山大学管理学院 All Rights Reserved</li>
+						<li>POWERED BY:100vic.com </li>
+					</ul>
+				</div>
+				<div class="fl footAdv">
+					<img src="images/footAdv1.png" alt="" class="adv">
+					<img src="images/footAdv0.png" alt="" class="adv">
+				</div>
+				<div class="scan">
+					<span class="fl">扫描关注我们</span>
+					<img src="images/footQcode.png" alt="" class="fr">
+					<div class="cb"></div>
+				</div>
+				<div class="cb"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
